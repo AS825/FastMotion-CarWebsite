@@ -1,0 +1,2 @@
+carBrand,name,dom,price,mileage,hp,image
+LAMBORGHINI,Huracán,2023-06-25,250000,1500,540,src/main/resources/Images/Lamborghini.jpg
