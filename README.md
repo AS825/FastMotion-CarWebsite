@@ -17,6 +17,9 @@ To see a live demo of the FastMotion Car Website, visit [https://as825.github.io
 
 ## Features
 
+# Statistics
+![statistics](statistics.png)
+
 The FastMotion Car Website offers the following features:
 
 - **Car Model Gallery**: Browse a collection of car models, each with detailed information and images.
